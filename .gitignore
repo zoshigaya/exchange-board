@@ -38,3 +38,6 @@ out/
 
 # Windows ADS metadata
 *:Zone.Identifier
+
+# Environment variables
+.env
